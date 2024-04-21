@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: RED-WINE-QUALITY
+Version: 0.0.0
+Summary: A python package for ml app
+Home-page: https://github.com/ashutosh15072000/RED_WINE_QUALITY
+Author: ashutosh15072000
+Author-email: ashutoshs019@gmail.com
+Project-URL: Bug Tracker, https://github.com/ashutosh15072000/RED_WINE_QUALITY/issues
+License-File: LICENSE
+
 # RED_WINE_QUALITY (END TO END )
 
 ### Create Conda Eniverironment
