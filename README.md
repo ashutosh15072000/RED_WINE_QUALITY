@@ -8,9 +8,10 @@
 ## Activate Conda Env
 
 ## For CMD
-##
-<tab><tab>code/Activate conda redwineenv 
-
+'''sh
+Activate conda redwineenv 
+'''
 ## For Bash
-##
-<tab><tab>code/Source conda redwineenv 
+'''sh
+Source conda redwineenv 
+'''
