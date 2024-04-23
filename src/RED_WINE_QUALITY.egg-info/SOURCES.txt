@@ -10,7 +10,10 @@ src/Red_Wine_Quality/components/__init__.py
 src/Red_Wine_Quality/config/__init__.py
 src/Red_Wine_Quality/config/configuration.py
 src/Red_Wine_Quality/constants/__init__.py
+src/Red_Wine_Quality/constants/constant.py
 src/Red_Wine_Quality/entity/__init__.py
+src/Red_Wine_Quality/logging/__init__.py
+src/Red_Wine_Quality/logging/logger.py
 src/Red_Wine_Quality/pipeline/__init__.py
 src/Red_Wine_Quality/utils/__init__.py
 src/Red_Wine_Quality/utils/common.py

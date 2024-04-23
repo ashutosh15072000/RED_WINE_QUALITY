@@ -3,8 +3,8 @@
 ### Create Conda Eniverironment
 
 ##
-<tab><tab>code/conda create -n redwineenv python=3.10 -y
-
+```sh create -n redwineenv python=3.10 -y
+```
 #### Activate Conda Env
 
 ##### For CMD

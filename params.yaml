@@ -1,0 +1,7 @@
+
+
+base:
+  Project: Red_Wine_Quality
+  random_state: 42
+  target_col: quality
+
