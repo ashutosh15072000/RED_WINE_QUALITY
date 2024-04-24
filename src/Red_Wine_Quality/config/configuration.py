@@ -1,7 +1,7 @@
 ## It will give all the file path and url
 from Red_Wine_Quality.constants.constant import *
 from Red_Wine_Quality.utils.common import read_yaml, create_directories
-from Red_Wine_Quality.entity.config_entity import DataIngestionConfig,DataValidationConfig,DataTransformationConfig
+from Red_Wine_Quality.entity.config_entity import DataIngestionConfig,DataValidationConfig,DataTransformationConfig,ModelTrainerConfig
 
 class ConfigurationManager:
     def __init__(
@@ -47,3 +47,29 @@ class ConfigurationManager:
             data_path=config.data_path   
         )
         return data_transformation_config
+    
+
+    
+
+    def get_model_trainer_config(self) -> ModelTrainerConfig:
+        config=self.config.model_trainer
+        params=self.params.ElasticNet
+        schema=self.schema.TARGET_COLUMN
+
+        create_directories([config.model_dir])
+
+
+        model_trainer_config=ModelTrainerConfig(
+            model_dir=config.model_dir,
+            train_data_path=config.train_data_path,
+            test_data_path=config.test_data_path,
+            model_name=config.model_name,
+            alpha=params.alpha,
+            l1_ratio=params.l1_ratio,
+            target_columns=schema.name
+
+        )
+
+        return model_trainer_config
+
+

@@ -517,3 +517,153 @@ x==========x]
 [2024-04-24 16:26:24,270: INFO: main: >>>>>>  Data Transformation Stage completed <<<<<<
 
 x==========x]
+[2024-04-24 17:35:19,266: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 17:35:19,267: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 17:35:19,271: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 17:35:19,272: INFO: common: created directory at: artifacts]
+[2024-04-24 17:35:49,013: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 17:35:49,014: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 17:35:49,017: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 17:35:49,018: INFO: common: created directory at: artifacts]
+[2024-04-24 17:36:09,187: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 17:36:09,189: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 17:36:09,191: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 17:36:09,192: INFO: common: created directory at: artifacts]
+[2024-04-24 17:37:10,308: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 17:37:10,310: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 17:37:10,313: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 17:37:10,314: INFO: common: created directory at: artifacts]
+[2024-04-24 17:37:53,371: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 17:37:53,374: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 17:37:53,378: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 17:37:53,379: INFO: common: created directory at: artifacts]
+[2024-04-24 17:37:53,380: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 17:38:44,107: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 17:38:44,109: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 17:38:44,111: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 17:38:44,113: INFO: common: created directory at: artifacts]
+[2024-04-24 17:38:44,113: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 17:43:38,906: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 17:43:38,908: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 17:43:38,911: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 17:43:38,912: INFO: common: created directory at: artifacts]
+[2024-04-24 17:43:38,913: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 17:44:08,658: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 17:44:08,660: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 17:44:08,663: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 17:44:08,664: INFO: common: created directory at: artifacts]
+[2024-04-24 17:44:08,665: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 18:06:22,302: INFO: stage_04_model_trainer: >>>>>> stage MODEL Trainer Stage started <<<<<<]
+[2024-04-24 18:06:22,314: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 18:06:22,320: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 18:06:22,324: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 18:06:22,326: INFO: common: created directory at: artifacts]
+[2024-04-24 18:06:22,328: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 18:06:22,329: ERROR: stage_04_model_trainer: ModelTrainerConfig() takes no arguments]
+Traceback (most recent call last):
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 27, in <module>
+    obj.main()
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 18, in main
+    model_trainer_config = config.get_model_trainer_config()
+  File "a:\mlproject\red_wine_quality\src\Red_Wine_Quality\config\configuration.py", line 60, in get_model_trainer_config
+    model_trainer_config=ModelTrainerConfig(
+TypeError: ModelTrainerConfig() takes no arguments
+[2024-04-24 18:21:59,328: INFO: stage_04_model_trainer: >>>>>> stage MODEL Trainer Stage started <<<<<<]
+[2024-04-24 18:21:59,331: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 18:21:59,332: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 18:21:59,335: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 18:21:59,335: INFO: common: created directory at: artifacts]
+[2024-04-24 18:21:59,336: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 18:21:59,336: ERROR: stage_04_model_trainer: ModelTrainerConfig() takes no arguments]
+Traceback (most recent call last):
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 30, in <module>
+    obj.main()
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 18, in main
+    model_trainer_config = config.get_model_trainer_config()
+  File "a:\mlproject\red_wine_quality\src\Red_Wine_Quality\config\configuration.py", line 60, in get_model_trainer_config
+    model_trainer_config=ModelTrainerConfig(
+TypeError: ModelTrainerConfig() takes no arguments
+[2024-04-24 18:22:37,454: INFO: stage_04_model_trainer: >>>>>> stage MODEL Trainer Stage started <<<<<<]
+[2024-04-24 18:22:37,458: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 18:22:37,459: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 18:22:37,462: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 18:22:37,463: INFO: common: created directory at: artifacts]
+[2024-04-24 18:22:37,463: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 18:22:37,463: ERROR: stage_04_model_trainer: ModelTrainerConfig() takes no arguments]
+Traceback (most recent call last):
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 30, in <module>
+    obj.main()
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 18, in main
+    model_trainer_config = config.get_model_trainer_config()
+  File "a:\mlproject\red_wine_quality\src\Red_Wine_Quality\config\configuration.py", line 60, in get_model_trainer_config
+    model_trainer_config=ModelTrainerConfig(
+TypeError: ModelTrainerConfig() takes no arguments
+[2024-04-24 18:23:08,639: INFO: stage_04_model_trainer: >>>>>> stage MODEL Trainer Stage started <<<<<<]
+[2024-04-24 18:23:08,642: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 18:23:08,643: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 18:23:08,645: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 18:23:08,646: INFO: common: created directory at: artifacts]
+[2024-04-24 18:23:08,647: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 18:23:08,647: ERROR: stage_04_model_trainer: ModelTrainerConfig() takes no arguments]
+Traceback (most recent call last):
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 30, in <module>
+    obj.main()
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 18, in main
+    model_trainer_config = config.get_model_trainer_config()
+  File "a:\mlproject\red_wine_quality\src\Red_Wine_Quality\config\configuration.py", line 60, in get_model_trainer_config
+    model_trainer_config=ModelTrainerConfig(
+TypeError: ModelTrainerConfig() takes no arguments
+[2024-04-24 18:24:18,247: INFO: stage_04_model_trainer: >>>>>> stage MODEL Trainer Stage started <<<<<<]
+[2024-04-24 18:24:18,251: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 18:24:18,253: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 18:24:18,255: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 18:24:18,256: INFO: common: created directory at: artifacts]
+[2024-04-24 18:24:18,257: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 18:24:18,257: ERROR: stage_04_model_trainer: ModelTrainerConfig() takes no arguments]
+Traceback (most recent call last):
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 31, in <module>
+    obj.main()
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 18, in main
+    model_trainer_config = config.get_model_trainer_config()
+  File "a:\mlproject\red_wine_quality\src\Red_Wine_Quality\config\configuration.py", line 60, in get_model_trainer_config
+    model_trainer_config=ModelTrainerConfig(
+TypeError: ModelTrainerConfig() takes no arguments
+[2024-04-24 18:27:15,720: INFO: stage_04_model_trainer: >>>>>> stage MODEL Trainer Stage started <<<<<<]
+[2024-04-24 18:27:15,723: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 18:27:15,724: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 18:27:15,726: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 18:27:15,727: INFO: common: created directory at: artifacts]
+[2024-04-24 18:27:15,727: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 18:27:15,727: ERROR: stage_04_model_trainer: ModelTrainerConfig() takes no arguments]
+Traceback (most recent call last):
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 29, in <module>
+    obj.main()
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 19, in main
+    model_trainer_config = config.get_model_trainer_config()
+  File "a:\mlproject\red_wine_quality\src\Red_Wine_Quality\config\configuration.py", line 60, in get_model_trainer_config
+    model_trainer_config=ModelTrainerConfig(
+TypeError: ModelTrainerConfig() takes no arguments
+[2024-04-24 18:31:38,693: INFO: stage_04_model_trainer: >>>>>> stage MODEL Trainer Stage started <<<<<<]
+[2024-04-24 18:31:38,697: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 18:31:38,698: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 18:31:38,701: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 18:31:38,701: INFO: common: created directory at: artifacts]
+[2024-04-24 18:31:38,702: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 18:31:38,702: ERROR: stage_04_model_trainer: ModelTrainerConfig() takes no arguments]
+Traceback (most recent call last):
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 29, in <module>
+    obj.main()
+  File "a:\MlProject\RED_WINE_QUALITY\src\Red_Wine_Quality\pipeline\stage_04_model_trainer.py", line 19, in main
+    model_trainer_config = config.get_model_trainer_config()
+  File "a:\mlproject\red_wine_quality\src\Red_Wine_Quality\config\configuration.py", line 60, in get_model_trainer_config
+    model_trainer_config=ModelTrainerConfig(
+TypeError: ModelTrainerConfig() takes no arguments
+[2024-04-24 18:34:36,205: INFO: stage_04_model_trainer: >>>>>> stage MODEL Trainer Stage started <<<<<<]
+[2024-04-24 18:34:36,208: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 18:34:36,209: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 18:34:36,211: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 18:34:36,212: INFO: common: created directory at: artifacts]
+[2024-04-24 18:34:36,213: INFO: common: created directory at: artifacts/model_trainer]
+[2024-04-24 18:34:36,225: INFO: stage_04_model_trainer: >>>>>> stage MODEL Trainer Stage completed <<<<<<
+
+x==========x]
