@@ -13,6 +13,13 @@ class DataIngestionConfig:
 @dataclass(frozen=True)
 class DataValidationConfig:
     root_dir: Path
-    status_file: str
+    status_data_file: str
+    status_dtype_file: str
     unzip_data_dir: Path
     all_schema: dict
+
+
+@dataclass
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path

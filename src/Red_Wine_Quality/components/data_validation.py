@@ -20,12 +20,12 @@ class DataValidation():
                 if col not in all_schema:
                     validate_col_status=False
                     
-                    with open(self.config.status_file,'a') as f:
-                        f.write(f"Validation(DATA) {col} Status: {validate_col_status}\n")
+                    with open(self.config.status_data_file,'w') as f:
+                        f.write(f"Validation Status: {validate_col_status}")
                 else:
                     validate_col_status=True
-                    with open(self.config.status_file,'a') as f:
-                        f.write(f"Validation(DATA) {col} Status: {validate_col_status} \n")
+                    with open(self.config.status_data_file,'w') as f:
+                        f.write(f"Validation Status: {validate_col_status}")
             
         
             return validate_col_status
@@ -39,19 +39,19 @@ class DataValidation():
             all_dtpyes=list(data.dtypes)
             all_schema=self.config.all_schema
 
-            list_schema_key=list(self.config.all_schema.keys())
-            col=0
+            
+        
             for dtype in (all_dtpyes):
                 
                 if dtype not in all_schema.values():
                     validate_dtype_status=False
-                    with open(self.config.status_file,'a') as f:
-                        f.write(f"Validation(DTPYE) of {list_schema_key[col]} and dtpye {dtype} Status: {validate_dtype_status}\n")
+                    with open(self.config.status_dtype_file,'w') as f:
+                        f.write(f"Validation Status: {validate_dtype_status}")
                 else:
                     validate_dtype_status=True
-                    with open(self.config.status_file,'a') as f:
-                        f.write(f"Validation(DTYPE) of {list_schema_key[col]} and dtpye {dtype} Status: {validate_dtype_status}\n")
-                col=col+1
+                    with open(self.config.status_dtype_file,'w') as f:
+                        f.write(f"Validation Status: {validate_dtype_status}")
+                
             
             
 
