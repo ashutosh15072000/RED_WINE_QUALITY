@@ -21,3 +21,75 @@
 [2024-04-23 16:32:24,443: INFO: common: created directory at: artifacts]
 [2024-04-23 16:32:24,444: INFO: common: created directory at: artifacts/data_ingestion]
 [2024-04-23 16:32:24,445: INFO: 951979835: File already exists of size: ~ 99 KB]
+[2024-04-23 16:32:56,557: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-23 16:32:56,559: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-23 16:32:56,562: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-23 16:32:56,563: INFO: common: created directory at: artifacts]
+[2024-04-23 16:32:56,564: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-23 16:32:56,565: INFO: 951979835: File already exists of size: ~ 99 KB]
+[2024-04-23 16:36:45,821: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-23 16:36:45,823: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-23 16:36:45,826: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-23 16:36:45,828: INFO: common: created directory at: artifacts]
+[2024-04-23 16:36:45,828: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-23 16:36:45,829: INFO: 951979835: File already exists of size: ~ 99 KB]
+[2024-04-23 16:37:12,200: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-23 16:37:12,203: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-23 16:37:12,206: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-23 16:37:12,207: INFO: common: created directory at: artifacts]
+[2024-04-23 16:37:12,208: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-23 16:37:12,209: INFO: 951979835: File already exists of size: ~ 99 KB]
+[2024-04-23 16:40:46,522: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-23 16:40:46,524: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-23 16:40:46,526: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-23 16:40:46,528: INFO: common: created directory at: artifacts]
+[2024-04-23 16:40:46,528: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-23 16:40:46,529: INFO: 4058259005: File already exists of size: ~ 99 KB]
+[2024-04-23 16:42:24,585: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-23 16:42:24,587: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-23 16:42:24,590: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-23 16:42:24,591: INFO: common: created directory at: artifacts]
+[2024-04-23 16:42:24,592: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-23 16:43:28,784: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-23 16:43:28,786: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-23 16:43:28,789: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-23 16:43:28,790: INFO: common: created directory at: artifacts]
+[2024-04-23 16:43:28,791: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-23 16:43:42,058: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-23 16:43:42,060: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-23 16:43:42,063: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-23 16:43:42,064: INFO: common: created directory at: artifacts]
+[2024-04-23 16:43:42,065: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-23 16:43:42,066: INFO: 4058259005: File already exists of size: ~ 99 KB]
+[2024-04-23 16:44:05,716: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-23 16:44:05,718: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-23 16:44:05,721: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-23 16:44:05,722: INFO: common: created directory at: artifacts]
+[2024-04-23 16:44:05,722: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-23 16:44:07,074: INFO: 4058259005: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4722:E7F6A:367F28:487087:66279804
+Accept-Ranges: bytes
+Date: Tue, 23 Apr 2024 11:14:13 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21725-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1713870853.054862,VS0,VE324
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: beb66f8d6c3d6b50e40f5ed25794cab883e9ab3a
+Expires: Tue, 23 Apr 2024 11:19:13 GMT
+Source-Age: 0
+
+]
