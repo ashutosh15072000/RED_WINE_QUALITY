@@ -1,72 +1,10 @@
-[2024-04-21 13:59:20,638: INFO: main: this is out custom log]
-[2024-04-23 16:29:42,711: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:29:42,713: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:29:42,716: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:29:42,718: INFO: common: created directory at: artifacts]
-[2024-04-23 16:29:42,719: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:30:22,287: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:30:22,288: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:30:22,291: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:30:22,293: INFO: common: created directory at: artifacts]
-[2024-04-23 16:30:22,294: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:31:12,207: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:31:12,208: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:31:12,211: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:31:12,213: INFO: common: created directory at: artifacts]
-[2024-04-23 16:31:12,214: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:31:12,215: INFO: 951979835: File already exists of size: ~ 99 KB]
-[2024-04-23 16:32:24,437: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:32:24,439: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:32:24,442: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:32:24,443: INFO: common: created directory at: artifacts]
-[2024-04-23 16:32:24,444: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:32:24,445: INFO: 951979835: File already exists of size: ~ 99 KB]
-[2024-04-23 16:32:56,557: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:32:56,559: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:32:56,562: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:32:56,563: INFO: common: created directory at: artifacts]
-[2024-04-23 16:32:56,564: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:32:56,565: INFO: 951979835: File already exists of size: ~ 99 KB]
-[2024-04-23 16:36:45,821: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:36:45,823: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:36:45,826: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:36:45,828: INFO: common: created directory at: artifacts]
-[2024-04-23 16:36:45,828: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:36:45,829: INFO: 951979835: File already exists of size: ~ 99 KB]
-[2024-04-23 16:37:12,200: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:37:12,203: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:37:12,206: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:37:12,207: INFO: common: created directory at: artifacts]
-[2024-04-23 16:37:12,208: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:37:12,209: INFO: 951979835: File already exists of size: ~ 99 KB]
-[2024-04-23 16:40:46,522: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:40:46,524: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:40:46,526: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:40:46,528: INFO: common: created directory at: artifacts]
-[2024-04-23 16:40:46,528: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:40:46,529: INFO: 4058259005: File already exists of size: ~ 99 KB]
-[2024-04-23 16:42:24,585: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:42:24,587: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:42:24,590: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:42:24,591: INFO: common: created directory at: artifacts]
-[2024-04-23 16:42:24,592: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:43:28,784: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:43:28,786: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:43:28,789: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:43:28,790: INFO: common: created directory at: artifacts]
-[2024-04-23 16:43:28,791: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:43:42,058: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:43:42,060: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:43:42,063: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:43:42,064: INFO: common: created directory at: artifacts]
-[2024-04-23 16:43:42,065: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:43:42,066: INFO: 4058259005: File already exists of size: ~ 99 KB]
-[2024-04-23 16:44:05,716: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
-[2024-04-23 16:44:05,718: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
-[2024-04-23 16:44:05,721: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
-[2024-04-23 16:44:05,722: INFO: common: created directory at: artifacts]
-[2024-04-23 16:44:05,722: INFO: common: created directory at: artifacts/data_ingestion]
-[2024-04-23 16:44:07,074: INFO: 4058259005: artifacts/data_ingestion/data.zip download! with following info: 
+[2024-04-24 10:47:33,210: INFO: stage_01_data_ingestion: >>>>>>>>> stage Data Ingestion Stage started <<<<<<<<]
+[2024-04-24 10:47:33,212: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 10:47:33,214: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 10:47:33,217: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 10:47:33,218: INFO: common: created directory at: artifacts]
+[2024-04-24 10:47:33,219: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-24 10:47:34,526: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
 Connection: close
 Content-Length: 23329
 Cache-Control: max-age=300
@@ -77,19 +15,70 @@ Strict-Transport-Security: max-age=31536000
 X-Content-Type-Options: nosniff
 X-Frame-Options: deny
 X-XSS-Protection: 1; mode=block
-X-GitHub-Request-Id: 4722:E7F6A:367F28:487087:66279804
+X-GitHub-Request-Id: EA72:3110A7:3AB13D:4EA668:662895F4
 Accept-Ranges: bytes
-Date: Tue, 23 Apr 2024 11:14:13 GMT
+Date: Wed, 24 Apr 2024 05:17:40 GMT
 Via: 1.1 varnish
-X-Served-By: cache-del21725-DEL
+X-Served-By: cache-del21729-DEL
 X-Cache: MISS
 X-Cache-Hits: 0
-X-Timer: S1713870853.054862,VS0,VE324
+X-Timer: S1713935860.317450,VS0,VE319
 Vary: Authorization,Accept-Encoding,Origin
 Access-Control-Allow-Origin: *
 Cross-Origin-Resource-Policy: cross-origin
-X-Fastly-Request-ID: beb66f8d6c3d6b50e40f5ed25794cab883e9ab3a
-Expires: Tue, 23 Apr 2024 11:19:13 GMT
+X-Fastly-Request-ID: f59fb9fdc937ce460323f0fe8b515439fecff1e5
+Expires: Wed, 24 Apr 2024 05:22:40 GMT
 Source-Age: 0
 
 ]
+[2024-04-24 10:47:34,536: INFO: stage_01_data_ingestion: >>>>>>>>> stage Data Ingestion Stage Completed <<<<<<<<]
+[2024-04-24 12:43:13,520: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-04-24 12:44:05,672: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-04-24 12:44:41,521: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:44:57,161: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:45:18,224: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:45:24,696: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:45:28,624: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:45:30,352: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:45:39,408: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:45:52,832: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:45:57,296: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:46:19,537: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:48:20,783: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:48:28,104: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 12:49:29,959: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 13:01:18,829: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 13:03:08,364: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 13:03:38,321: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-04-24 13:32:26,601: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 13:32:26,604: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 13:32:26,607: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 13:32:26,609: INFO: common: created directory at: artifacts]
+[2024-04-24 13:32:26,610: INFO: common: created directory at: artifacts/data_validation]
+[2024-04-24 13:32:59,736: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 13:32:59,738: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 13:32:59,741: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 13:32:59,742: INFO: common: created directory at: artifacts]
+[2024-04-24 13:32:59,743: INFO: common: created directory at: artifacts/data_validation]
+[2024-04-24 13:41:16,166: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 13:41:16,168: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 13:41:16,171: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 13:41:16,172: INFO: common: created directory at: artifacts]
+[2024-04-24 13:41:16,173: INFO: common: created directory at: artifacts/data_validation]
+[2024-04-24 13:44:28,524: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 13:44:28,525: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 13:44:28,528: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 13:44:28,530: INFO: common: created directory at: artifacts]
+[2024-04-24 13:44:28,531: INFO: common: created directory at: artifacts/data_validation]
+[2024-04-24 13:45:33,564: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 13:45:33,566: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 13:45:33,569: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 13:45:33,571: INFO: common: created directory at: artifacts]
+[2024-04-24 13:45:33,571: INFO: common: created directory at: artifacts/data_validation]
+[2024-04-24 14:00:27,296: INFO: stage_02_data_validation: >>>>>>>>>  Data Validation Stage started <<<<<<<<]
+[2024-04-24 14:00:27,298: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\config\config.yaml loaded successfully]
+[2024-04-24 14:00:27,299: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\params.yaml loaded successfully]
+[2024-04-24 14:00:27,302: INFO: common: yaml file: A:\MlProject\RED_WINE_QUALITY\schema.yaml loaded successfully]
+[2024-04-24 14:00:27,303: INFO: common: created directory at: artifacts]
+[2024-04-24 14:00:27,303: INFO: common: created directory at: artifacts/data_validation]
+[2024-04-24 14:00:27,335: INFO: stage_02_data_validation: >>>>>>>>>  Data Validation Stage Completed <<<<<<<<]

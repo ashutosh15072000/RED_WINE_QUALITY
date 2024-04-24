@@ -1,0 +1,24 @@
+Validation(DATA) fixed acidity Status: True 
+Validation(DATA) volatile acidity Status: True 
+Validation(DATA) citric acid Status: True 
+Validation(DATA) residual sugar Status: True 
+Validation(DATA) chlorides Status: True 
+Validation(DATA) free sulfur dioxide Status: True 
+Validation(DATA) total sulfur dioxide Status: True 
+Validation(DATA) density Status: True 
+Validation(DATA) pH Status: True 
+Validation(DATA) sulphates Status: True 
+Validation(DATA) alcohol Status: True 
+Validation(DATA) quality Status: True 
+Validation(DTYPE) of fixed acidity and dtpye float64 Status: True
+Validation(DTYPE) of volatile acidity and dtpye float64 Status: True
+Validation(DTYPE) of citric acid and dtpye float64 Status: True
+Validation(DTYPE) of residual sugar and dtpye float64 Status: True
+Validation(DTYPE) of chlorides and dtpye float64 Status: True
+Validation(DTYPE) of free sulfur dioxide and dtpye float64 Status: True
+Validation(DTYPE) of total sulfur dioxide and dtpye float64 Status: True
+Validation(DTYPE) of density and dtpye float64 Status: True
+Validation(DTYPE) of pH and dtpye float64 Status: True
+Validation(DTYPE) of sulphates and dtpye float64 Status: True
+Validation(DTYPE) of alcohol and dtpye float64 Status: True
+Validation(DTYPE) of quality and dtpye int64 Status: True
